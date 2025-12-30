@@ -1,17 +1,9 @@
 streamlit>=1.30.0
 python-dotenv>=1.0.0
-
-# LangChain core & community
 langchain>=0.1.16
 langchain-core>=0.1.40
 langchain-community>=0.0.30
-
-# Classic LangChain agents/chains (used in your code)
 langchain-classic>=0.0.6
-
-# Groq LLM integration
 langchain-groq>=0.1.3
-
-# Optional but recommended (math & parsing stability)
 sympy>=1.12
 pydantic>=2.6.0
