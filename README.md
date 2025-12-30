@@ -1,6 +1,6 @@
 # 📘 Smart Math Solver (LangChain + Streamlit)
 
-A Streamlit-based AI math word problem solver that provides clear, step-by-step explanations using LangChain agents and a calculator tool.
+A Streamlit-based AI math word problem solver that provides **clear, step-by-step explanations** using **LangChain agents** and a **calculator tool**.
 
 ---
 
@@ -20,16 +20,35 @@ A Streamlit-based AI math word problem solver that provides clear, step-by-step 
 - Groq LLM
 
 ---
-
 ## 📦 Installation
 
 ```bash
 pip install -r requirements.txt
-▶ Run the App
-bash
-Copy code
-streamlit run app.py
-Enter your Groq API Key in the sidebar when prompted.
+```
 
-📄 License
+---
+
+## Run the App
+
+```bash
+streamlit run app.py
+```
+
+Enter your Groq API key in the sidebar when prompted.
+
+---
+
+🧠 Example Use Cases
+School and college math problems
+
+Competitive exam preparation
+
+Learning math logic step-by-step
+
+📌 Project Status
+✅ Functional and stable
+
+🔧 Open for future improvements
+
+## License
 MIT License
